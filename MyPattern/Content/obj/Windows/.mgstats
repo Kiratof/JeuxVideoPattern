@@ -1,0 +1,7 @@
+Source File,Dest File,Processor Type,Content Type,Source File Size,Dest File Size,Build Seconds
+"C:/Users/Christopher/Documents/developpement/MyPattern/MyPattern/Content/button.png","C:/Users/Christopher/Documents/developpement/MyPattern/MyPattern/Content/bin/Windows/button.xnb","TextureProcessor","Texture2DContent",1228,37325,0,6202413
+"C:/Users/Christopher/Documents/developpement/MyPattern/MyPattern/Content/cool.mp3","C:/Users/Christopher/Documents/developpement/MyPattern/MyPattern/Content/bin/Windows/cool.xnb","SongProcessor","SongContent",3884319,122,3,019418
+"C:/Users/Christopher/Documents/developpement/MyPattern/MyPattern/Content/explode.wav","C:/Users/Christopher/Documents/developpement/MyPattern/MyPattern/Content/bin/Windows/explode.xnb","SoundEffectProcessor","SoundEffectContent",115762,115823,0,2403194
+"C:/Users/Christopher/Documents/developpement/MyPattern/MyPattern/Content/meteor.png","C:/Users/Christopher/Documents/developpement/MyPattern/MyPattern/Content/bin/Windows/meteor.xnb","TextureProcessor","Texture2DContent",881,7285,0,0297523
+"C:/Users/Christopher/Documents/developpement/MyPattern/MyPattern/Content/ship.png","C:/Users/Christopher/Documents/developpement/MyPattern/MyPattern/Content/bin/Windows/ship.xnb","TextureProcessor","Texture2DContent",4093,53653,0,0179494
+"C:/Users/Christopher/Documents/developpement/MyPattern/MyPattern/Content/techno.mp3","C:/Users/Christopher/Documents/developpement/MyPattern/MyPattern/Content/bin/Windows/techno.xnb","SongProcessor","SongContent",6444658,124,2,210105
